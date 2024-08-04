@@ -56,12 +56,17 @@ send_email(
 
 ## How to generate an App Passcode / Password
 
-[Google_Link](https://support.google.com/accounts/answer/185833?visit_id=638582879170443332-748898673&p=InvalidSecondFactor&rd=1)
-
 1. Go to the above link and click on ```Sign in with App Passwords```
 ![Sign in](https://miro.medium.com/v2/resize:fit:828/format:webp/1*_4FWtWAn_oXXtePVcJ1dug.png)
+
 2. Then log in to your Google Account.
 ![App Creation](https://miro.medium.com/v2/resize:fit:828/format:webp/1*8FWbjE7YNJfUGv_auKOnow.png)
+
 3. Then type in your app name and click on Create.
 ![Password Creation](https://miro.medium.com/v2/resize:fit:720/format:webp/1*5yarOX3qGwvVT0l1QjAyZw.png)
+
 4. Your Passcode or Password has been generated it would look something like “aaaa aaaa aaaa aaaa: (16 digits).
+
+## References
+
+1. [Google_Link](https://support.google.com/accounts/answer/185833?visit_id=638582879170443332-748898673&p=InvalidSecondFactor&rd=1)
